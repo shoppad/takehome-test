@@ -9,7 +9,8 @@ together include a series of tests involving HTML, CSS, JavaScript, and PHP.
 Feel free to solve these questions however you see fit, using whatever coding
 style or third-party libraries you think are appropriate.
 
-Once you're finished, simply commit your changes and push them to the GitHub repo.
+Once you're finished, simply commit your changes and push them to the GitHub
+repo.
 
 ## Frontend
 
@@ -45,3 +46,19 @@ prefer and use third-party libraries at your own discretion.
 * **Shopify Admin API Documentation:** https://help.shopify.com/api/reference/product
 * **API Key:** <API_KEY>
 * **API Password:** <API_PASSWORD>
+
+There's also a file called "price-sum.php" which contains a small coding
+challenge:
+
+Given a list of prices and a target sum, write a function that returns true if
+the list of prices contains 2 prices that add up to the target sum.
+
+For more details, consult the comments in price-sum.php.
+
+## Submitting Your Code
+
+This private repo has been created just for you. Once you've completed the
+test, simply commit and push your code to this repo. Once we receive it, a
+member of our team will review and we'll get back to you as soon as possible.
+
+Thanks!
