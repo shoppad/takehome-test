@@ -11,11 +11,6 @@ style or third-party libraries you think are appropriate.
 
 To start the test, simply clone this repo and make your edits locally.
 
-Once you're finished, please compress your files (via zip or tar) and return
-them as an email attachment in reply to your test invite. We'd like the code in
-your submission to remain private, so please avoid committing or pushing the
-code publicly.
-
 ## Frontend
 
 For the frontend portion of the test, we have a file called
