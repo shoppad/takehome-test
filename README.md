@@ -57,7 +57,7 @@ For more details, consult the comments in price-sum.php.
 ## Submitting Your Code
 
 Once you've completed the test, please compress your files (via zip or tar) and
-return them as an email attachment in reply to your test invite. We'd like the
+return them as a link or email attachment in reply to your test invite. We'd like the
 code in your submission to remain private, so please avoid committing or pushing
 the code publicly.
 
