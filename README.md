@@ -1,8 +1,8 @@
-# Takehome Test (Full-Stack)
+# Takehome Test (Software Engineer)
 
 ## Overview
 
-This is a takehome test for candidates applying for a full-stack developer
+This is a takehome test for candidates applying for a software engineer
 position at ShopPad. It contains two sections: "Backend" and "Frontend", which
 together include a series of tests involving HTML, CSS, JavaScript, and PHP.
  
@@ -41,10 +41,14 @@ prefer and use third-party libraries at your own discretion.
 ### Shopify Store and API Information
 
 * **Shopify Dev Store URL:** https://shoppad-candidate.myshopify.com/collections/all
-(password: "candidate")
+(password: "candidate", click "Enter Using Password" in the top-right)
 * **Shopify Admin API Documentation:** https://help.shopify.com/api/reference/product
-* **API Key:** (Provided Via Email)
-* **API Password:** (Provided Via Email)
+
+#### API access keys for a custom Shopify app created in the Shopify admin:
+
+* **Admin API access token:** (Provided Via Email)
+* **API key:** (Provided Via Email)
+* **API secret key:** (Provided Via Email)
 
 There's also a file called "price-sum.php" which contains a small coding
 challenge:
