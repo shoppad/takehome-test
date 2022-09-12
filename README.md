@@ -40,15 +40,13 @@ prefer and use third-party libraries at your own discretion.
 
 ### Shopify Store and API Information
 
+The following API access keys are for a custom Shopify app created in the Shopify admin:
+* **Admin API access token:** (Provided via email)
+* **API key:** (Provided via email)
+* **API secret key:** (Provided via email)
 * **Shopify Dev Store URL:** https://shoppad-candidate.myshopify.com/collections/all
 (password: "candidate", click "Enter Using Password" in the top-right)
 * **Shopify Admin API Documentation:** https://help.shopify.com/api/reference/product
-
-#### API access keys for a custom Shopify app created in the Shopify admin:
-
-* **Admin API access token:** (Provided Via Email)
-* **API key:** (Provided Via Email)
-* **API secret key:** (Provided Via Email)
 
 There's also a file called "price-sum.php" which contains a small coding
 challenge:
@@ -60,8 +58,8 @@ For more details, consult the comments in price-sum.php.
 
 ## Submitting Your Code
 
-Once you've completed the test, please compress your files (via zip or tar) and
-return them as a link or email attachment in reply to your test invite. We'd like the
+Once you've completed the test, please compress your files (via zip) and
+return them as a link or email attachment in reply to your project invitation. We would like the
 code in your submission to remain private, so please avoid committing or pushing
 the code publicly.
 
