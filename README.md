@@ -28,6 +28,16 @@ Feel free to use third-party libraries at your own discretion.
 
 ## Backend
 
+### Shopify Store and API Information
+The following API access keys are for a custom Shopify app created in the Shopify admin:
+* **Admin API access token:** (Provided via email)
+* **API key:** (Provided via email)
+* **API secret key:** (Provided via email)
+* **Shopify Dev Store URL:** https://shoppad-candidate.myshopify.com/collections/all
+(password: "candidate", click "Enter Using Password" in the top-right)
+* **Shopify Admin API Documentation:** https://help.shopify.com/api/reference/product
+
+### inventory.php
 For the backend portion of the test, we have an empty PHP file called
 "inventory.php". We'd like to write some code that achieves the following:
 
@@ -38,17 +48,8 @@ for all products (and their variants)
 The file is empty on purpose, so feel free to structure the code however you
 prefer and use third-party libraries at your own discretion.
 
-### Shopify Store and API Information
-
-The following API access keys are for a custom Shopify app created in the Shopify admin:
-* **Admin API access token:** (Provided via email)
-* **API key:** (Provided via email)
-* **API secret key:** (Provided via email)
-* **Shopify Dev Store URL:** https://shoppad-candidate.myshopify.com/collections/all
-(password: "candidate", click "Enter Using Password" in the top-right)
-* **Shopify Admin API Documentation:** https://help.shopify.com/api/reference/product
-
-There's also a file called "price-sum.php" which contains a small coding
+### price-sum.php
+There is also a file called "price-sum.php" which contains a small coding
 challenge:
 
 Given a list of prices and a target sum, write a function that returns true if
